@@ -1,0 +1,61 @@
+provider_id,provider_name,provider_type,state,npi_number,registered_date,is_ghost_provider
+PRV0001,"Lindsey, Lamb and Brooks Care Services",Hospice Care,GA,NPI5083595988,2026-05-02,True
+PRV0002,Marshall-Fry Care Services,Adult Day Care,GA,NPI4248149900,2020-10-24,False
+PRV0003,"Byrd, Hoffman and Ray Care Services",Assisted Living,PA,NPI7808938880,2019-08-21,False
+PRV0004,Faulkner-Gomez Care Services,Assisted Living,MD,NPI7313646580,2017-03-13,False
+PRV0005,Stone PLC Care Services,Adult Day Care,MD,NPI4683935600,2020-05-25,False
+PRV0006,"Martin, Harris and Wood Care Services",Assisted Living,PA,NPI5452580287,2019-09-28,False
+PRV0007,"Branch, Castro and Valentine Care Services",Adult Day Care,NY,NPI8613035386,2026-05-02,True
+PRV0008,Powell-Becker Care Services,Home Health Agency,OH,NPI7279140605,2017-02-28,False
+PRV0009,Blake-Day Care Services,Hospice Care,NY,NPI1221670908,2026-05-02,True
+PRV0010,"Cross, Foster and Smith Care Services",Skilled Nursing Facility,PA,NPI8293928340,2017-04-04,False
+PRV0011,Adams-Stanton Care Services,Hospice Care,DC,NPI4048494026,2023-04-20,False
+PRV0012,"Dillon, Garza and Stewart Care Services",Home Health Agency,OH,NPI2752306681,2019-03-22,False
+PRV0013,"Vaughn, English and Mitchell Care Services",Home Health Agency,TX,NPI5067594934,2025-03-04,False
+PRV0014,Rivera-Barber Care Services,Skilled Nursing Facility,TX,NPI8324687182,2020-07-25,False
+PRV0015,Hicks-Smith Care Services,Assisted Living,TX,NPI6341783555,2024-06-22,False
+PRV0016,Jackson PLC Care Services,Assisted Living,DC,NPI4776677517,2018-06-22,False
+PRV0017,"Patel, Smith and Neal Care Services",Adult Day Care,FL,NPI5305985001,2020-05-03,False
+PRV0018,"Richardson, Dixon and Miller Care Services",Hospice Care,GA,NPI5933179746,2022-08-09,False
+PRV0019,Thomas PLC Care Services,Adult Day Care,NY,NPI7628981661,2022-10-20,False
+PRV0020,Cantu Group Care Services,Adult Day Care,DC,NPI2644847276,2021-07-03,False
+PRV0021,Mccoy and Sons Care Services,Assisted Living,VA,NPI6932342612,2020-05-02,False
+PRV0022,Cox-Thomas Care Services,Skilled Nursing Facility,TX,NPI5143889422,2017-10-31,False
+PRV0023,Davis Group Care Services,Hospice Care,NY,NPI4735334423,2017-01-12,False
+PRV0024,Webb-Miller Care Services,Assisted Living,MD,NPI2962491159,2016-05-09,False
+PRV0025,Monroe-Patterson Care Services,Assisted Living,NC,NPI5616352188,2018-03-26,False
+PRV0026,Yates Group Care Services,Adult Day Care,NY,NPI7586857685,2017-11-04,False
+PRV0027,Mcgee-Watkins Care Services,Assisted Living,OH,NPI9744120054,2023-12-20,False
+PRV0028,Sharp PLC Care Services,Adult Day Care,DC,NPI4207337120,2026-05-02,True
+PRV0029,"Davis, Henderson and Henry Care Services",Home Health Agency,MD,NPI2905584866,2023-10-27,False
+PRV0030,Haas-Rodriguez Care Services,Home Health Agency,VA,NPI5535997538,2016-11-20,False
+PRV0031,Walker and Sons Care Services,Assisted Living,NC,NPI1773338452,2018-08-30,False
+PRV0032,"Jones, Pierce and Wiley Care Services",Hospice Care,FL,NPI6329323383,2018-03-13,False
+PRV0033,"Campbell, Garcia and Montoya Care Services",Skilled Nursing Facility,DC,NPI6385791669,2020-04-18,False
+PRV0034,Lee-Robinson Care Services,Home Health Agency,TX,NPI9165632300,2023-11-12,False
+PRV0035,"Munoz, Hernandez and Warren Care Services",Skilled Nursing Facility,MD,NPI7818568548,2020-06-24,False
+PRV0036,"Meyer, Anderson and Ellis Care Services",Assisted Living,PA,NPI2297602688,2025-04-24,False
+PRV0037,Williams LLC Care Services,Assisted Living,MD,NPI6313758032,2020-03-29,False
+PRV0038,Ellis Inc Care Services,Hospice Care,PA,NPI2268006448,2019-10-07,False
+PRV0039,Cooper-King Care Services,Assisted Living,PA,NPI9624715092,2020-05-15,False
+PRV0040,"Soto, Johnson and Green Care Services",Home Health Agency,GA,NPI8495457335,2016-09-09,False
+PRV0041,White LLC Care Services,Adult Day Care,DC,NPI2513206988,2019-10-03,False
+PRV0042,Woodward-Bryant Care Services,Hospice Care,PA,NPI4600630513,2018-09-04,False
+PRV0043,"Baker, Daniels and Sandoval Care Services",Home Health Agency,PA,NPI8682023540,2018-07-01,False
+PRV0044,Tucker Group Care Services,Adult Day Care,NC,NPI6562457052,2026-05-02,True
+PRV0045,"Coffey, Palmer and Williams Care Services",Skilled Nursing Facility,DC,NPI9467483275,2018-03-17,False
+PRV0046,Blair-Anderson Care Services,Adult Day Care,NC,NPI8758809005,2025-03-08,False
+PRV0047,Hampton-Mills Care Services,Adult Day Care,MD,NPI1323408297,2023-03-03,False
+PRV0048,Wright and Sons Care Services,Skilled Nursing Facility,FL,NPI2570991899,2016-09-29,False
+PRV0049,Tucker Inc Care Services,Home Health Agency,PA,NPI3304560537,2018-03-08,False
+PRV0050,Walsh and Sons Care Services,Adult Day Care,GA,NPI2595467139,2016-10-19,False
+PRV0051,Turner PLC Care Services,Assisted Living,VA,NPI3620283102,2017-10-30,False
+PRV0052,Brady Ltd Care Services,Assisted Living,PA,NPI8083429496,2023-06-26,False
+PRV0053,Smith Group Care Services,Home Health Agency,VA,NPI3115806625,2022-08-10,False
+PRV0054,Guzman Inc Care Services,Hospice Care,NC,NPI6964188417,2026-05-02,True
+PRV0055,Jones-White Care Services,Hospice Care,FL,NPI4120719599,2022-03-29,False
+PRV0056,Wilson Group Care Services,Home Health Agency,TX,NPI7939173425,2020-11-11,False
+PRV0057,Reed-Herrera Care Services,Adult Day Care,VA,NPI8259700175,2023-07-05,False
+PRV0058,Bond-Jarvis Care Services,Assisted Living,DC,NPI8969097897,2018-11-04,False
+PRV0059,Cruz Inc Care Services,Adult Day Care,OH,NPI8064477344,2026-05-02,True
+PRV0060,"Hicks, Lee and Harris Care Services",Adult Day Care,DC,NPI5158416864,2026-05-02,True
